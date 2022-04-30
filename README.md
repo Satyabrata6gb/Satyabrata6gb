@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satyabrata6gb
 - 👀 I’m interested in coding, programming, CP
-- 🌱 I’m currently learning Data structures, python, C++
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on soliving coding problems
 
 <!---
